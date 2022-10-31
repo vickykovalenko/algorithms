@@ -1,7 +1,6 @@
 #pragma once
 
 #include <cstddef>
-#include <iostream>
 #include <math.h>
 #include "Node.h"
 #include "LinkedList.h"
